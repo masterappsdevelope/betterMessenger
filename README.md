@@ -265,11 +265,6 @@ attachment menu (or when you start a new message with “@”). To turn this
 feature off and delete the relevant data, go to Settings \> Privacy &
 Security \> Data Settings and disable “Suggest Frequent Contacts”.
 
-#### [**](#5-6-no-ads)5.6. No Ads
-
-Unlike other services, we don't use your data for ad targeting or other
-commercial purposes. Telegram only stores the information it needs to
-function as a secure and feature-rich cloud service.
 
 ### [**](#6-bot-messages)6. Bot Messages
 
@@ -547,37 +542,3 @@ required by the EU data protection law.*
 
 Telegram is a cloud-based mobile and desktop messaging app with a focus
 on security and speed.
-
-##### [About](/faq)
-
--   [FAQ](/faq)
--   [Blog](/blog)
--   [Jobs](/jobs)
-
-##### [Mobile Apps](/apps#mobile-apps)
-
--   [iPhone/iPad](/dl/ios)
--   [Android](/dl/android)
--   [Windows Phone](/dl/wp)
-
-##### [Desktop Apps](/apps#desktop-apps)
-
--   [PC/Mac/Linux](//desktop.telegram.org/)
--   [macOS](//macos.telegram.org/)
--   [Web-browser](/dl/web)
-
-##### [Platform](//core.telegram.org/)
-
--   [API](//core.telegram.org/api)
--   [Translations](//translations.telegram.org/)
--   [Instant View](//instantview.telegram.org/)
-
-##### [About](/faq)
-
-##### [Blog](/blog)
-
-##### [Apps](/apps)
-
-##### [Platform](//core.telegram.org/)
-
-##### [Twitter](https://twitter.com/telegram)
