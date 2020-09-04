@@ -1,4 +1,4 @@
-مسنجری بهتر Privacy Policy
+مسنجری بهتر (better.messenger.tg) Privacy Policy
 =======================
 
 ### [**](#1-introduction)1. Introduction
